@@ -1,5 +1,7 @@
 # Statusfy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bazzite/statusfy.svg)](https://greenkeeper.io/)
+
 > A painless open source Status Page System
 
 ## Build Setup
